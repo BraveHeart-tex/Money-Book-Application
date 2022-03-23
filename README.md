@@ -1,5 +1,11 @@
-# Getting Started with Create React App
+# Live Demo of Money Book
+You can check out the live demo on Netlify by clicking this [link](https://bora-money-book.netlify.app/login)
 
+## Login Details
+email: testuser@gmail.com
+password: test123
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
