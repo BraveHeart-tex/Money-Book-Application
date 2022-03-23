@@ -1,5 +1,5 @@
 # Live Demo of Money Book
-You can check out the live demo on Netlify by clicking this [link](https://bora-money-book.netlify.app).
+You can check out the live demo on Netlify by clicking this [link](https://money-book-403d8.web.app).
 
 ## Login Details
 You can use the test account below to test the application.
